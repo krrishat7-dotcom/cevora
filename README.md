@@ -44,8 +44,7 @@ CEVORA TEAM
 - **Team:** CEVORA
 - **Domain:** AI-ML
 
-**📁 Presentation & Documentation:**
-[View Submission Folder](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+**📁  **Submission Folder:** [View Presentation & Documentation](https://drive.google.com/drive/folders/1XlJDyJjxduquifv9XzIwUikqM5jFmFl2?usp=sharing)
 
 **🌐 Live Demo:**
 [https://krrishat7-dotcom.github.io/cevora](https://krrishat7-dotcom.github.io/cevora)
