@@ -35,3 +35,17 @@ CEVORA is an AI-powered platform that makes government schemes with COMPLEX PROC
 - [ ] SMS/WhatsApp bot
 ## 👨‍💻 Built By
 CEVORA TEAM
+
+
+ Hackathon Submission
+
+**Innovate-X Hackathon 2026**
+- **Problem Statement:** PS-13 - Simplifying Access to Government Services
+- **Team:** CEVORA
+- **Domain:** AI-ML
+
+**📁 Presentation & Documentation:**
+[View Submission Folder](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+**🌐 Live Demo:**
+[https://krrishat7-dotcom.github.io/cevora](https://krrishat7-dotcom.github.io/cevora)
