@@ -10,7 +10,7 @@
 ## 📁 Submission Materials
 
 **Google Drive Folder (Presentation & Documentation):**  
-[Click here to view submission folder](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+https://drive.google.com/drive/folders/1XlJDyJjxduquifv9XzIwUikqM5jFmFl2?usp=sharing
 
 **Live Website:**  
 [https://krrishat7-dotcom.github.io/cevora](https://krrishat7-dotcom.github.io/cevora)
